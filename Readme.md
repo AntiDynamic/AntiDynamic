@@ -1,16 +1,67 @@
-# Hi, I'm Aditya Gayal 👋
+# Hi, I'm Aditya Gayal 
 
-### About Me
-I'm a Computer Engineering student who learns by building complete projects.  
-I’ve explored web development, system utilities, UI experiments, and small game-like simulations to understand how real software systems are designed and improved.
+AI & Full-Stack Developer  
+Open-source focused  
+Builder by habit
 
-### What I’ve Built
-Instead of sticking to one niche, I’ve experimented across frontend, backend, tooling, and applied AI.  
-This includes a mood-aware journaling web app, helper and automation tools, and retro-style UI and game mechanics experiments.
+---
 
-### How I Work
-I enjoy reading existing codebases, refactoring when needed, and improving features incrementally.  
-I value clean code, clarity, and long-term thinking over quick demos.
+## About Me
+I enjoy turning ideas into working software.  
+I learn best by building, breaking, and refining things.
 
-### Current Focus
-Right now, I’m focused on contributing to open-source projects, improving code quality, and working with larger collaborative codebases.
+I’ve worked across  
+web applications,  
+game development,  
+system utilities,  
+and applied AI,  
+always trying to understand  
+how real systems behave in practice.
+
+I care about software that feels good to use,  
+is clean under the hood,  
+and improves with iteration.
+
+---
+
+## What I’m Building
+Currently working on **Solace**,  
+a mood-aware journaling web app  
+focused on user experience,  
+focus,  
+and emotional design.
+
+I’ve also built  
+a Python + Pygame game,  
+utility tools,  
+and experimental UI projects  
+to explore different problem spaces.
+
+---
+
+## How I Think
+I like reading existing codebases.  
+I prefer improving things step by step  
+instead of rewriting everything.
+
+I value  
+clarity,  
+maintainability,  
+and learning through real implementation  
+over quick demos or hype.
+
+---
+
+## Currently Exploring
+System design fundamentals  
+Open-source collaboration  
+AI-assisted tools and workflows
+
+---
+
+## Let’s Collaborate
+If you enjoy building useful things,  
+experimenting responsibly,  
+or contributing to open-source,  
+we’ll probably get along.
+
