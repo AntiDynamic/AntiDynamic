@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 120" width="100%">
+  <style>
+    .text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; font-size: 14px; fill: #58a6ff; font-weight: 600; text-anchor: middle; }
+    .sub { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; font-size: 12px; fill: #8b949e; text-anchor: middle; }
+    .box { fill: transparent; stroke: #30363d; stroke-width: 1.5; rx: 6; }
+    .arrow { stroke: #30363d; stroke-width: 1.5; fill: none; }
+    .arrow-head { fill: #30363d; }
+    @media (prefers-color-scheme: light) {
+      .text { fill: #0969da; }
+      .sub { fill: #57606a; }
+      .box { stroke: #d0d7de; }
+      .arrow { stroke: #d0d7de; }
+      .arrow-head { fill: #d0d7de; }
+    }
+  </style>
+  <!-- Observe -->
+  <rect x="20" y="30" width="140" height="60" class="box" />
+  <text x="90" y="58" class="text">Observe</text>
+  <text x="90" y="78" class="sub">Continuum</text>
+  
+  <!-- Arrow -->
+  <path d="M 160 60 L 210 60" class="arrow" />
+  <polygon points="210,56 218,60 210,64" class="arrow-head" />
+
+  <!-- Understand -->
+  <rect x="228" y="30" width="140" height="60" class="box" />
+  <text x="298" y="58" class="text">Understand</text>
+  <text x="298" y="78" class="sub">Context Retrieval</text>
+  
+  <!-- Arrow -->
+  <path d="M 368 60 L 418 60" class="arrow" />
+  <polygon points="418,56 426,60 418,64" class="arrow-head" />
+
+  <!-- Decide -->
+  <rect x="436" y="30" width="140" height="60" class="box" />
+  <text x="506" y="58" class="text">Decide</text>
+  <text x="506" y="78" class="sub">Redrob Ranker</text>
+  
+  <!-- Arrow -->
+  <path d="M 576 60 L 626 60" class="arrow" />
+  <polygon points="626,56 634,60 626,64" class="arrow-head" />
+
+  <!-- Act -->
+  <rect x="644" y="30" width="140" height="60" class="box" />
+  <text x="714" y="58" class="text">Act</text>
+  <text x="714" y="78" class="sub">CleanAir Sentinel</text>
+</svg>
