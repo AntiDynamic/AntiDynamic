@@ -1,67 +1,27 @@
-# Hi, I'm Aditya Gayal 
+# Hi, I'm Aditya Gayal
 
-AI & Full-Stack Developer  
-Open-source focused  
-Builder by habit
+**Computer Engineering student · Software developer**
 
----
+I enjoy turning real problems into clear, useful software. I’m curious about how systems work, and I learn by building, testing, and improving them with other people.
 
-## About Me
-I enjoy turning ideas into working software.  
-I learn best by building, breaking, and refining things.
+## About me
 
-I’ve worked across  
-web applications,  
-game development,  
-system utilities,  
-and applied AI,  
-always trying to understand  
-how real systems behave in practice.
+I’m studying Computer Engineering and growing as a developer through hands-on work and open-source collaboration. My interests include full-stack development, applied AI, backend systems, and tools that make technology easier to use.
 
-I care about software that feels good to use,  
-is clean under the hood,  
-and improves with iteration.
+I like working across the stack, understanding an existing codebase before changing it, and following an idea through implementation and verification.
 
----
+## How I work
 
-## What I’m Building
-Currently working on **Solace**,  
-a mood-aware journaling web app  
-focused on user experience,  
-focus,  
-and emotional design.
+- Break complex problems into manageable steps
+- Write code with clarity and maintainability in mind
+- Test changes and pay attention to edge cases
+- Value accessibility, privacy, and a thoughtful user experience
+- Collaborate openly, share context, and learn from feedback
 
-I’ve also built  
-a Python + Pygame game,  
-utility tools,  
-and experimental UI projects  
-to explore different problem spaces.
+## Currently learning
 
----
+System design, reliable software practices, and how to build useful products with AI.
 
-## How I Think
-I like reading existing codebases.  
-I prefer improving things step by step  
-instead of rewriting everything.
+## Let’s connect
 
-I value  
-clarity,  
-maintainability,  
-and learning through real implementation  
-over quick demos or hype.
-
----
-
-## Currently Exploring
-System design fundamentals  
-Open-source collaboration  
-AI-assisted tools and workflows
-
----
-
-## Let’s Collaborate
-If you enjoy building useful things,  
-experimenting responsibly,  
-or contributing to open-source,  
-we’ll probably get along.
-
+I’m always glad to meet people who enjoy learning, building, and contributing together.
